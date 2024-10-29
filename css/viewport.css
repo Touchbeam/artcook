@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    
+}
+.vw{
+    font-size: 5vw; 
+}
+.vh{
+    font-size: 10vh;
+}
+
+.percent{
+    font-size:400%;
+}

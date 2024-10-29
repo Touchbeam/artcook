@@ -1,0 +1,28 @@
+.flexbox-item{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+}
+
+.container{
+    
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    height: 600px;
+    margin: 30px;
+    flex-wrap: wrap;
+    align-items: baseline;
+    align-content: space-between;
+}
+
+.box{
+    
+
+    padding-top: 30px;
+  
+    
+}

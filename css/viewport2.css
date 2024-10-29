@@ -1,0 +1,11 @@
+.flex-item{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin:2px;
+    text-align: center;
+}
+.container{
+    display: flex;
+    margin: 20px;
+}
